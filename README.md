@@ -1,3 +1,3 @@
 # test
-test repo fir basic fit commands
+test repo for basic git commands
 
