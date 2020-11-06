@@ -1,1 +1,2 @@
-this is to understand basic git commands
+checking commit command
+ 
